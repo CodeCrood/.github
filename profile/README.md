@@ -1,5 +1,5 @@
-# 💫 About CodeCrood:
-<br>CodeCrood is more than just a company; it's a thriving ecosystem where developers from around the world converge, collaborate, and innovate. We've created a digital haven where coding enthusiasts, software engineers, and tech visionaries unite to shape the future of technology.<br><br>At codecrood, we believe in the power of community. Our platform serves as a bustling marketplace of ideas, skills, and solutions. Whether you're a seasoned programmer, a budding coder, or an industry expert, CodeCrood welcomes you to a place where knowledge knows no bounds.
+
+<br>CodeCrood is more than just a company; it's a thriving ecosystem where developers from around the world converge, collaborate, and innovate. We've created a digital haven where coding enthusiasts, software engineers, and tech visionaries unite to shape the future of technology.<br><br>At CodeCrood, we believe in the power of community. Our platform serves as a bustling marketplace of ideas, skills, and solutions. Whether you're a seasoned programmer, a budding coder, or an industry expert, CodeCrood welcomes you to a place where knowledge knows no bounds.
 
 
 # 💻 Tech Stack:
